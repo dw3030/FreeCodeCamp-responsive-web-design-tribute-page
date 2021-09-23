@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  max-width: device-width;
+ // background-image: url('https://img.wallpapersafari.com/desktop/1600/900/0/77/JsfviE.jpg'); //
+  background-size: cover;
+  background-repeat: no repeat;
+  
+  margin: 0;
+  padding: 0;
+  
+}
+
+h1 {
+  justify-content: center;
+  font-size: 110px;
+  font-family: Century Gothic;
+  font-style: normal;
+  font-stretch: expanded;
+  line-height: 110px;
+  float: center;
+  text-align: center;
+  margin-bottom: 0px;
+  text-decoration: none;
+ 
+}
+
+p {
+  font-size: 40px;
+  font-family: Century Gothic;
+  line-height: 70px;
+  font-style: normal;
+  font-stretch: expanded;
+  margin-bottom: 20px;
+  float: center;
+  text-decoration: overline wavy black;
+}
+
+p2 {
+  font-size: 40px;
+  font-family: Century Gothic;
+  
+  line-height: 52px;
+  font-style: normal;
+  font-stretch: expanded;
+  margin-bottom: 40px;
+  float: center;
+  text-decoration: none;
+  padding: 50px;
+}
+
+#img-caption, #img-div, #image {
+  display: block;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  font: monospace;
+  text-align: center;
+  font-size: 30px;
+  max-width: 1000px;
+  text-align: center;
+  align-items: center;
+  float: center;
+  line-height: 40px;
+  background-size: contain;
+  word-wrap: break-word;
+  margin-bottom: 20px;
+  
+}
+
+#head {
+  white-space: normal;
+  text-align: center;
+  font-size: 2.0rem;
+}
+
+body {
+  font-size: 3.4rem;
+  line-height: 20px;
+  text-align: center;
+  float: center;
+  color: #000000;
+  margin: 0;
+  background: url(https://img.wallpapersafari.com/desktop/1600/900/0/77/JsfviE.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+figure {
+  width: 100%;
+  float: center;
+  max-width: none;
+  text-align: center;
+}
+
+#wiki-link {
+  color: blue;
+  font-size: 40px;
+}
+
+
+#tribute-info, footer {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  width: 100%;
+}
+
+#tribute-link {
+  
+}
